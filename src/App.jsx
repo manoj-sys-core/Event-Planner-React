@@ -1,7 +1,10 @@
 import React from 'react'
 
-export const App = () => {
+// App.jsx
+function App() {
   return (
-    <div>App</div>
-  )
+    <h1>Hello, Event Planner 🚀</h1>
+  );
 }
+
+export default App;  
