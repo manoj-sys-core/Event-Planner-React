@@ -1,9 +1,12 @@
 import React from 'react'
+import AboutUs from './components/aboutus';
 
 // App.jsx
 function App() {
   return (
-    <h1>Hello, Event Planner 🚀</h1>
+    <>
+    <AboutUs/>
+    </>
   );
 }
 
